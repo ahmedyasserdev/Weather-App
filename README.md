@@ -1,1 +1,1 @@
- ➥ Live Preview<  https://weather-app-8bdcc.web.app
+Live Preview  ➥   https://weather-app-8bdcc.web.app
